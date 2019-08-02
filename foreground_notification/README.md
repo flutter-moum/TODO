@@ -1,3 +1,5 @@
-# TODO
+# foreground_notification
 
-This is a repo to share what to do for making flutter plugins. Each folder represents flutter plugin's repos in Flutter Moum. TODOs are short Markdown documents listing what to do.
+## TODO
+[] Android Test
+[] Add Chronometer and Start Time
