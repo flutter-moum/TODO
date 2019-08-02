@@ -1,5 +1,5 @@
 # foreground_notification
 
-## TODO
-[] Android Test
-[] Add Chronometer and Start Time
+## TODO for Android
+- [x] Basic function compelete.
+- [ ] Add Chronometer and Start Time.
