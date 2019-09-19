@@ -7,6 +7,5 @@ This is a repo to share what to do for making flutter plugins. Each folder repre
 - [ ] Bluetooth connection/disconnection detection
 
 ## Test
-- [ ] Add test code
-  - [ ] Test code for the current headset connection status
-  - [ ] Test code to detect when headset connecting 
+- [x] Add test code
+  - [x] Test code for the current headset connection status
