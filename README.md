@@ -4,4 +4,5 @@ This is a repo to share what to do for making flutter plugins. Each folder repre
 
 - [x] Create TODO repo.
 - [ ] Move `all_sensors` repository to flutter moum.
-- [ ] Move `screen_keep_on` repository to flutter moum.
+- [x] Move `screen_keep_on` repository to flutter moum.
+- [ ] Create floating button plugin.
